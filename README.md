@@ -3,7 +3,7 @@ Overview  This is a basic Python script that implements a simple substitution ci
 
 Usage
 1. Run the script
-python script.py
+encryption.py
 2. Enter text when prompted
 What do you want to encrypt: Hello World
 3. Output example
